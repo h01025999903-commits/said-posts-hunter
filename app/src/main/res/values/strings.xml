@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">صائد البوستات</string>
+    <string name="search_hint">ابحث عن منشورات...</string>
+    <string name="search_button">بحث</string>
+    <string name="loading">جاري البحث...</string>
+    <string name="no_results">لا توجد نتائج</string>
+    <string name="error_network">فشل الاتصال بالإنترنت</string>
+    <string name="error_timeout">انتهت مهلة الاتصال</string>
+    <string name="error_server">خطأ في الخادم</string>
+    <string name="settings">الإعدادات</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="results_count">عدد النتائج</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="open_in_facebook">فتح في فيسبوك</string>
+</resources>
